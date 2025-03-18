@@ -1,3 +1,3 @@
 #deneme
 
-using git for github
+using git for github!
